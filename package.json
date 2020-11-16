@@ -30,7 +30,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-facebook": "^8.1.4",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^4.0.0",
     "recharts": "^1.8.5",
     "typescript": "^3.9.3"
   },
